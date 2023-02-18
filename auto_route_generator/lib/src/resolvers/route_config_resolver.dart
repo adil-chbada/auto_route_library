@@ -20,6 +20,7 @@ const validMetaValues = [
   'bool',
   'int',
   'double',
+  'Type',
 ];
 
 // extracts route configs from class fields and their meta data
